@@ -1,2 +1,3 @@
-# aviult-script-translated
-Collection of useful scripts that not included in Webcam`s pack, translated to English
+# aviutl2-korean
+aviutl2 한국어 자료
+원래 스크립트 번역본 올릴려 했는데 어비유틸2가 나온걸 이제서야 깨달아서 용도 바로 변경
